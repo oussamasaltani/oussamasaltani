@@ -53,6 +53,10 @@ I’m a Web & Mobile Developer passionate about building modern, clean, and effi
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
+   <a href="https://wa.me/qr/MGPBYPCYKFDIA1">
+    <img src="https://img.shields.io/badge/Whatsapp-greendarck?style=for-the-badge&logo=Whatsapp&logoColor=white" />
+  </a>
+
   ---
 
 <div align="center">
