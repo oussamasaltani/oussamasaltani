@@ -1,43 +1,59 @@
-<img width="1024" height="423" alt="image" src="https://github.com/user-attachments/assets/975c5ba9-c490-4278-b521-f65b508dbf57" />
-<div align="center">
-    <h1>Hi there! I'm OUSSAMA SALTANI </h1>
-    </div>
-    
-## 
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#4CAF50;">Oussama Saltani</span>
+</h1>
 
-👨‍💻 About Me
-
-Oussama Saltani — Web & Mobile Developer  
-Passionate about building modern, clean, and efficient digital solutions.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=4CAF50&center=true&vCenter=true&lines=Web+%26+Mobile+Developer" />
+</p>
 
 ---
 
-## 🚀 Skills
+## 🧑‍💻 About Me
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Backend
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Databases
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+I’m a Web & Mobile Developer passionate about building  
+modern, clean, and efficient digital experiences.
 
 ---
 
-## 🔗 Social Media
+## 🛠️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/oussama-saltani)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oussamasaltani)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/oussamasaltani)
+### 👨‍💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C8A?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Oussama's GitHub stats](https://github-readme-stats.vercel.app/api?username=oussamasaltani&show_icons=true&theme=tokyonight)
+## 🌐 Connect With Me
 
----
+<p>
+  <a href="https://www.linkedin.com/in/oussama-saltani-259b13291">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/sl__oussama">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/oussamasaltani">
+    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
