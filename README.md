@@ -1,7 +1,10 @@
-
----
-
+<img width="1024" height="423" alt="image" src="https://github.com/user-attachments/assets/975c5ba9-c490-4278-b521-f65b508dbf57" />
+<div align="center">
+    <h1>Hi there! I'm OUSSAMA SALTANI </h1>
+    </div>
+    
 ## 
+
 👨‍💻 About Me
 
 Oussama Saltani — Web & Mobile Developer  
