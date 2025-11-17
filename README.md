@@ -51,4 +51,11 @@ I’m a Web & Mobile Developer passionate about building modern, clean, and effi
   <a href="https://www.instagram.com/sl__oussama">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
+  ---
+
+<div align="center">
+  
+### ✨ Thanks for visiting my profile.
+</div>
 </p>
