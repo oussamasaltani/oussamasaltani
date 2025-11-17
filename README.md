@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hi, I'm <span style="color:#4CAF50;">Oussama Saltani</span>
+  👋 Hi, I'm <span style="color:#4CAF50;"> OUSSAMA SALTANI </span>
 </h1>
 
 <p align="center">
@@ -10,8 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-I’m a Web & Mobile Developer passionate about building  
-modern, clean, and efficient digital experiences.
+I’m a Web & Mobile Developer passionate about building modern, clean, and efficient digital experiences.
 
 ---
 
@@ -51,9 +50,5 @@ modern, clean, and efficient digital experiences.
 
   <a href="https://www.instagram.com/sl__oussama">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/oussamasaltani">
-    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
