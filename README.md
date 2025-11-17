@@ -1,12 +1,9 @@
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm OUSSAMA SALTANI 👋 I'm a 🚀 WEB & MOBILE DEVELOPER ">
+</p>
 
-alt="👋 Hi there! I'm Oussama Saltani" 
-title="👋 Hi there! I'm Oussama Saltani" />](https://github.com/oussamasaltani)
-
-![visitors](https://vbr.nathanchung.dev/badge?page_id=oussamasaltani.oussamasaltani&color=00cf00)
-
----
-
-## 👨‍💻 About Me
+## 
+👨‍💻 About Me
 Oussama Saltani — Web & Mobile Developer  
 Passionate about building modern, clean, and efficient digital solutions.
 
